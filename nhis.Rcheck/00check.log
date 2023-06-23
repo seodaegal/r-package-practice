@@ -1,0 +1,10 @@
+* using log directory ‘/Users/yuna/Documents/GitHub/r-package-practice/nhis.Rcheck’
+* using R version 4.2.2 (2022-10-31)
+* using platform: x86_64-apple-darwin17.0 (64-bit)
+* using session charset: UTF-8
+* using options ‘--no-manual --as-cran’
+* checking for file ‘nhis/DESCRIPTION’ ... OK
+* this is package ‘nhis’ version ‘0.0.0.9000’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ...
